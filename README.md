@@ -1,6 +1,5 @@
 ### <Hello, world!> 
-- 📚 Iniciando os estudos
-- 💻 Estudando JavaScript
+- 📚 Aprimorando-se.
 
 ##
 
